@@ -1,0 +1,4 @@
+*.sqlite
+*.nsys-rep
+*.qdstrm
+*_cuda
